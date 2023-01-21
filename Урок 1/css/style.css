@@ -1,0 +1,50 @@
+
+
+/* div {
+  color: rgb(241, 0, 0);
+}
+
+
+.parent{
+  color: aquamarine;
+border: 2px solid cornflowerblue;
+}
+
+#BlcokOne{
+  background-color: brown;
+}
+
+.Block1, .Block1, .Block3, .Block4{
+  color: indigo;
+}
+
+div.redblock{
+  color: rgb(0, 70, 201);
+}
+
+div .Brom{
+  color: rgb(196, 117, 0);
+}
+
+div.B1> .C1{
+  color: rgb(12, 129, 129);
+}
+
+
+ul:first-of-type {
+  font-weight: bold;
+ } */
+
+
+ .text-bold {
+  font-weight: bold;
+}
+
+div.B2 {
+  color: aquamarine;
+  font-style: oblique;
+}
+
+a[href*="#blog"] {
+  color: black;
+}
